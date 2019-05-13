@@ -1,5 +1,4 @@
 def Show_screen(Field):
-    print('  abcdefgh')
     for i in range(len(Field)):
         print(i+1, '', end = '')
         for k in Field[i]:
